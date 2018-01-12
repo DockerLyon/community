@@ -1,4 +1,4 @@
-# Contributors:
+# CONTRIBUTORS:
 
 ### Rachid Zarouali 
 ##### Email: xinity77@gmail.com
