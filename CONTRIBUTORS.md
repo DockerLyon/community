@@ -7,6 +7,6 @@
 
 ### Emmanuel Carre
 ##### Email: emmanuel.b.carre@gmail.com
-##### Twitter / Slack / Github: @ecarre
-##### Blog: 
+##### Twitter / Slack / Github: @Itholys / @ecarre / [emmanuelCarre](https://github.com/emmanuelCarre)
+##### Blog: -
 
